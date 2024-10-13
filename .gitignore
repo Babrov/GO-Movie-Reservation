@@ -1,0 +1,31 @@
+# Binaries
+main
+*.exe
+*.out
+*.app
+
+# Build directories
+/build/
+bin/
+
+# Dependency directories
+vendor/
+Gopkg.lock
+Gopkg.toml
+
+# Logs and debugging files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Editor/IDE files
+.vscode/
+.idea/
+.DS_Store
+
+# Environment variables
+.env
+
+# Docker-related files
+docker-compose.override.yml
