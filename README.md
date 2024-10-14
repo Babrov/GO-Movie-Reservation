@@ -9,7 +9,7 @@ The goal of this project is to help you understand how to implement complex busi
 ## User Authentication and Authorization
 
 - Users should be able to sign up and log in.
-  You also need roles for users, such as admin and regular user.
+- You also need roles for users, such as admin and regular user.
 - Admins should be able to manage movies and showtimes.
 - Regular users should be able to reserve seats for a showtime.
 - You can create the initial admin using seed data. Only admins should be able to promote other users to admin and be able to do things related to movie management, reporting, etc.
